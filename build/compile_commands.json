@@ -1,0 +1,20 @@
+[
+{
+  "directory": "E:/C++/Cmakeproject/build/src",
+  "command": "C:\\Users\\ADMINI~1\\AppData\\Local\\Programs\\MICROS~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\main.cpp.obj -c E:\\C++\\Cmakeproject\\src\\main.cpp",
+  "file": "E:/C++/Cmakeproject/src/main.cpp",
+  "output": "src/CMakeFiles/main.dir/main.cpp.obj"
+},
+{
+  "directory": "E:/C++/Cmakeproject/build/src/pnc_map",
+  "command": "C:\\Users\\ADMINI~1\\AppData\\Local\\Programs\\MICROS~1\\mingw64\\bin\\G__~1.EXE -Dpnc_map_EXPORTS  -g -o CMakeFiles\\pnc_map.dir\\pnc_map.cpp.obj -c E:\\C++\\Cmakeproject\\src\\pnc_map\\pnc_map.cpp",
+  "file": "E:/C++/Cmakeproject/src/pnc_map/pnc_map.cpp",
+  "output": "src/pnc_map/CMakeFiles/pnc_map.dir/pnc_map.cpp.obj"
+},
+{
+  "directory": "E:/C++/Cmakeproject/build/src/process",
+  "command": "C:\\Users\\ADMINI~1\\AppData\\Local\\Programs\\MICROS~1\\mingw64\\bin\\G__~1.EXE -Dprocess_EXPORTS @CMakeFiles/process.dir/includes_CXX.rsp -g -o CMakeFiles\\process.dir\\process.cpp.obj -c E:\\C++\\Cmakeproject\\src\\process\\process.cpp",
+  "file": "E:/C++/Cmakeproject/src/process/process.cpp",
+  "output": "src/process/CMakeFiles/process.dir/process.cpp.obj"
+}
+]

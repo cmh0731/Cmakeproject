@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/C++/Cmakeproject/build/cmake_install.cmake",
+		"E:/C++/Cmakeproject/build/src/cmake_install.cmake",
+		"E:/C++/Cmakeproject/build/src/pnc_map/cmake_install.cmake",
+		"E:/C++/Cmakeproject/build/src/process/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
